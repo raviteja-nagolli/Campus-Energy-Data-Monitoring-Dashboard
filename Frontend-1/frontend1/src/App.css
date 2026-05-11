@@ -1,0 +1,26 @@
+.filter{
+    display: flex;
+}
+.filter-container{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.input-container{
+    margin: 10px;
+}
+.filter-display{
+    margin: 20px;
+}
+.home{
+    display: flex;
+}
+.table{
+    margin: 30px;
+}
+#clearButton{
+    background-color: #f0f0f0;
+    margin: 10px;
+    border-radius: 8px;
+    border: 2px solid black;
+}
